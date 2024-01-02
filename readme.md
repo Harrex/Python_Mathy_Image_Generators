@@ -6,4 +6,4 @@ This is a basic generator for the mandelbrot set. The colors are based on how ma
 
 It uses colors from the catpuccin-mocha theme.
 
-![The Generated Image](./Assets/mandelbrot.png)
+![The Generated Image](https://github.com/Harrex/Python_Mathy_Image_Generators/blob/master/Assets/Mandelbrot.png)
