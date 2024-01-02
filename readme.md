@@ -7,3 +7,9 @@ This is a basic generator for the mandelbrot set. The colors are based on how ma
 It uses colors from the catpuccin-mocha theme.
 
 ![The Generated Image](https://github.com/Harrex/Python_Mathy_Image_Generators/blob/master/Assets/Mandelbrot.png)
+
+## The Mandelbrot Set - Higher Powers
+Changing the power in this equation causes multiple of the set, rotated evenly about the origin. This script (mandelbrot\_hexagon.py) uses a power of 7:
+$z_{n+1} = z_{n}^{7} + C$
+
+![The Generated Image](https://github.com/Harrex/Python_Mathy_Image_Generators/blob/master/Assets/mandelbrot-hexagon.png)
