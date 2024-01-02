@@ -12,4 +12,4 @@ It uses colors from the catpuccin-mocha theme.
 Changing the power in this equation causes multiple of the set, rotated evenly about the origin. This script (mandelbrot\_hexagon.py) uses a power of 7:
 $z_{n+1} = z_{n}^{7} + C$
 
-![The Generated Image](https://github.com/Harrex/Python_Mathy_Image_Generators/blob/master/Assets/mandelbrot-hexagon.png)
+![The Generated Image](https://github.com/Harrex/Python_Mathy_Image_Generators/blob/master/Assets/mandelbrot_hexagon.png)
