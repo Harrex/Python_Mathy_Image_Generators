@@ -1,4 +1,4 @@
-# Images
+# Fractal Image Generation using Python
 If you want to edit any of these, you'll have to look through the code. This is just a hobby project for me to practice some parts of python that I don't usually get to mess with.
 
 ## The Mandelbrot Set
